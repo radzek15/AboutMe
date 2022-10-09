@@ -1,0 +1,12 @@
+body {background-color: yellow;}
+h1 {color: rgb(0, 0, 255); text-align: center;}
+h2 {font-size:26px; text-align: center; color: #3399ff;}
+p {font-size: 18px; color: #a52a2a;}
+h3.light {color: #004080;font-weight: 700; font-style: italic} 
+h4 {text-align: right;}
+
+table, th, td {border: 2px solid black; text-align: center;}
+table {background-color: #8cff66; width: 50%;}
+th {color: blue; font-size: 20px;}
+table.center {margin-left: auto; margin-right: auto;}
+
